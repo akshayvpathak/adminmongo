@@ -1,1 +1,12 @@
-{}
+{
+  "connections": {
+    "confusion": {
+      "connection_string": "mongodb://localhost:27017/conFusion",
+      "connection_options": {}
+    },
+    "Samples": {
+      "connection_string": "mongodb://localhost:27017/test",
+      "connection_options": {}
+    }
+  }
+}
